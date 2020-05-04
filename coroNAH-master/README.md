@@ -1,6 +1,6 @@
 # coroNAH
 
-##Inspiration:
+#Inspiration:
 
 The rampaging outbreak of COVID-19, commonly known as the corona virus
 
